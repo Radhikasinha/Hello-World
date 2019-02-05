@@ -1,2 +1,3 @@
 # Hello-World
-Intro to Githup
+Intro to GitHub
+GitHub repository
